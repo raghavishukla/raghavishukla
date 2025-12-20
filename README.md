@@ -2,8 +2,7 @@
 
 ## 👾 About Me 
 
-I’m a recent Computer Science graduate and an aspiring Data Analyst with a strong interest in turning data into meaningful insights. 
-I work with Python, SQL, Excel, and Tableau to clean, analyze, and visualize data. My projects focus on exploratory data analysis, dashboard creation, and solving real-world problems using data-driven approaches. I’m continuously learning and improving my skills, and I use this space to share my analytics projects and experiments. Open to entry-level Data Analyst opportunities and collaboration.
+Data Analyst with strong expertise in Python, SQL, Excel, Power BI, and Tableau. Experienced in data cleaning, analysis, and visualization through hands-on projects and internships. Adept at transforming complex datasets into meaningful insights that support informed decision-making. Known for strong analytical thinking, problem-solving, and clear communication. Actively seeking opportunities to contribute to a data-driven team and grow as a data professional. Happy to connect and discuss potential roles!
 
 ## 🧠 When I work with data I rely on 
 
